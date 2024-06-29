@@ -17,6 +17,11 @@
 - **Description:** Snake Game
 - **Link:** [Snake](https://github.com/xB0bon/SnakePygame)
 
+### Stuff I know
+
+![Stuff](test.png)
+
+
 ## Contact
 
 - **Email:** Bobonuz@protonmail.com
