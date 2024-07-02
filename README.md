@@ -17,6 +17,11 @@
 - **Description:** Snake Game
 - **Link:** [Snake](https://github.com/xB0bon/SnakePygame)
 
+### Timberman
+
+- **Description:** Timberman is a clone of the popular arcade game, created by me using Pygame. The goal of the game is to chop the tree and avoid branches to score as many points as possible.
+- **Link:** [Timberman](https://github.com/xB0bon/Timberman-Python)
+  
 ### Stuff I know
 
 ![Stuff](test.png)
