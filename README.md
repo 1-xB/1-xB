@@ -7,4 +7,4 @@ I'm a beginner programmer with a passion for developing applications and games. 
 - **Tools:** SQL Server Management Studio (SSMS)
 
 ## 🚀 Current Projects
-- **Web Chat Application:** I'm currently working on a web-based chat application using HTML and CSS, with plans to implement JavaScript for enhanced functionality.
+- **Web Chat Application:** I'm currently working on a web-based chat application using HTML and CSS, Javascript, Socket.IO
