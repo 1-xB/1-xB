@@ -8,4 +8,4 @@ I'm a beginner programmer with a passion for developing applications and games. 
 
 ## 🚀 Current Projects
 - **Web Chat Application:** I'm currently working on a web-based chat application using HTML and CSS, Javascript, Socket.IO
-- ** Learning Unity (: **
+- **Learning Unity (:**
