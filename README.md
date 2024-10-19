@@ -4,7 +4,7 @@ I'm a beginner programmer with a passion for developing applications and games. 
 
 ## 🛠️ Technologies I Know
 - **Programming Languages:** C#, Python, JavaScript, HTML, CSS, SQL
-- **Tools:** SQL Server Management Studio (SSMS)
+- **Tools:** SQL Server Management Studio (SSMS), Unity (learning...) , Godot
 
 ## 🚀 Current Projects
 - **Web Chat Application:** I'm currently working on a web-based chat application using HTML and CSS, Javascript, Socket.IO
