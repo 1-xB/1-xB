@@ -8,4 +8,5 @@ I'm a beginner programmer with a passion for developing applications and games. 
 
 ## 🚀 Current Projects
 - **Web Chat Application:** I'm currently working on a web-based chat application using HTML and CSS, Javascript, Socket.IO
-- **Learning Unity (:**
+- **Flappy Bird 3D** is a 3D version of the classic Flappy Bird game, is being created in Unity
+
