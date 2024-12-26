@@ -11,6 +11,6 @@ I'm a beginner programmer with a passion for developing applications and games. 
 - **Flappy Bird 3D** is a 3D version of the classic Flappy Bird game, is being created in Unity
 
 ## 📝 Stats
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-xB&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1-xB&layout=compact&theme=onedark)
 
 
