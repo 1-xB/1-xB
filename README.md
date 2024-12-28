@@ -6,10 +6,6 @@ I'm a beginner programmer with a passion for developing applications and games. 
 - **Programming Languages:** C#, Python, JavaScript, HTML, CSS, SQL
 - **Tools:** SQL Server Management Studio (SSMS), Unity (learning...) , Godot (learning...)
 
-## 🚀 Current Projects
-- **Web Chat Application:** I'm currently working on a web-based chat application using HTML and CSS, Javascript, Socket.IO
-- **Flappy Bird 3D** is a 3D version of the classic Flappy Bird game, is being created in Unity
-
 ## 📝 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-xB&layout=compact&theme=dark&cache_seconds=3600)
 
