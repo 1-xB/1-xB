@@ -9,6 +9,7 @@ I'm a beginner programmer with a passion for developing applications and games. 
 
 ## 🏨 Now I am learning 
 - **ASP.NET CORE**
+- **BLAZOR**
 
 
 ## 📝 Stats
