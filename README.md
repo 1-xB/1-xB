@@ -14,7 +14,7 @@ I'm a beginner programmer with a passion for developing applications and games. 
 
 
 ## 📝 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-xB&layout=compact&theme=dark&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-xB&layout=compact&theme=dark&cache_seconds=1)
 
 
 
