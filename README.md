@@ -4,13 +4,9 @@ I'm a beginner programmer with a passion for developing applications and games. 
 
 ## 🛠️ Technologies I Know
 - **Programming Languages:** C#, Python, JavaScript, HTML, CSS, SQL
-- **Frameworks/Technologies:** WPF, Entity Framework
+- **Frameworks/Technologies:** WPF, Entity Framework, ASP.NET CORE, BLAZOR
 - **Tools:** SQL Server Management Studio (SSMS)
 
-## 🏨 Now I am learning 
-- **ASP.NET CORE**
-- **BLAZOR**
-- **GODOT**
 
 
 ## 📝 Stats
