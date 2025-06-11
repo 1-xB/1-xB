@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Piotr!
 I'm a beginner programmer with a passion for developing applications and games. I enjoy learning new technologies and improving my coding skills.
 
-## 🛠️ Technologies I Know
+## 🛠️ Technologies I have worked with
 - **Programming Languages:** C#, Python, JavaScript, HTML, CSS, SQL
 - **Frameworks/Technologies:** WPF, Entity Framework, ASP.NET CORE, BLAZOR
 - **Tools:** SQL Server Management Studio (SSMS)
